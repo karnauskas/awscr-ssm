@@ -17,4 +17,4 @@ development_dependencies:
     github: veelenga/ameba
     version: 0.8.1
 
-icense: MIT
+License: MIT
